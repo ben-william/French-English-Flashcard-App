@@ -1,6 +1,12 @@
 # French:English Flashcard App
 Flashcard Game to practice French
 
+```
+Note: I am aware this project could use considerable refactoring to make it more robust, implement OOP, etc. 
+This was a training exercise uploaded as-is.
+I am currently focused on exploring new concepts rather than perfecting what currently exists. 
+```
+
 ## How it Works
 
 The game initializes by reading in the words_to_learn.csv file
